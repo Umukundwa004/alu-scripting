@@ -1,4 +1,6 @@
-s project of count number of subscriber
+#!/usr/bin/python3
+"""
+document define this project of count number of subscriber
 """
 
 import requests
